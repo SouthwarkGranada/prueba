@@ -3,4 +3,5 @@ ya tengo bateria
 guitarra Ac
 guitarra El
 Carmen ya tiene instalada la interface
+pero aun no ha grabado 
 Pte: bajo, voz, mezcla, master
