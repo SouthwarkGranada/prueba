@@ -2,5 +2,5 @@ modificacion 1
 ya tengo bateria
 guitarra Ac
 guitarra El
-
+Carmen ya tiene instalada la interface
 Pte: bajo, voz, mezcla, master
